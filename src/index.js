@@ -32,7 +32,7 @@ export default function chooseFiles(opts, callback) {
 	};
 
 	input.addEventListener('change', done);
-	addEventListener('focus', () => setTimeout(done, 100) );
+	addEventListener('focus', () => setTimeout(done, 1000) );
 
 	input.click();
 }
