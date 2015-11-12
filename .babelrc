@@ -1,0 +1,7 @@
+{
+  "loose": "all",
+  "modules": "umd",
+  "sourceMaps": true,
+  "compact": true,
+  "comments": false
+}
