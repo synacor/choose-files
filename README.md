@@ -1,7 +1,7 @@
 # `choose-files`
 
 [![NPM](http://img.shields.io/npm/v/choose-files.svg)](https://www.npmjs.com/package/choose-files)
-[![travis-ci](https://travis-ci.org/synacorinc/choose-files.svg)](https://travis-ci.org/synacorinc/choose-files)
+[![travis-ci](https://travis-ci.org/synacor/choose-files.svg)](https://travis-ci.org/synacor/choose-files)
 
 Prompt the user to select files, then pass the [File] objects to a callback.
 If the user cancels file selection, an empty Array is returned.
