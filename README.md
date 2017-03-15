@@ -1,5 +1,7 @@
 # `choose-files`
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/synacor/choose-files.svg)](https://greenkeeper.io/)
+
 [![NPM](http://img.shields.io/npm/v/choose-files.svg)](https://www.npmjs.com/package/choose-files)
 [![travis-ci](https://travis-ci.org/synacor/choose-files.svg)](https://travis-ci.org/synacor/choose-files)
 
