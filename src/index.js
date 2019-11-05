@@ -17,8 +17,10 @@ export default function chooseFiles(opts, callback) {
 	input.multiple = true;
 
 	if (opts) {
-		for (let i in opts) if (opts.hasOwnProperty(i)) {
-			input[i] = opts[i];
+		for (let i in opts) {
+			if (Object.prototype.hasOwnProperty.call(opts,i)) {
+				input[i] = opts[i];
+			}
 		}
 	}
 

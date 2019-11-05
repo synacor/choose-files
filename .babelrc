@@ -1,6 +1,6 @@
 {
-  "loose": "all",
-  "modules": "umd",
+  "presets": ["@babel/preset-env"],
+  "plugins": ["@babel/plugin-transform-modules-umd"],
   "sourceMaps": true,
   "compact": true,
   "comments": false
