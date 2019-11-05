@@ -1,6 +1,6 @@
 {
   "name": "choose-files",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Prompt the user to select files, then pass them to a callback.",
   "main": "dist/index.js",
   "module": "src/index.js",
